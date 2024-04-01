@@ -1,0 +1,50 @@
+.authorcontainer {
+    height: 100vh;
+    width: 100%;
+    padding-left: 30px;
+    background-image: url("../../assets/pexels-willian-justen-de-vasconcellos-18254876.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+// .authorcontainer div
+// {
+//     background-color: white;
+//     height: fit-content;
+// }
+h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-weight: 550;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 5px;
+    font-weight: 550;
+
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 5px;
+    font-weight: 550;
+    font-size: 24px;
+
+}
+
+a {
+    text-decoration: none;
+    color: blue; 
+    font-weight: 550;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
